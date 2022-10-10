@@ -1,0 +1,2 @@
+# .github
+Conectory - stay real
